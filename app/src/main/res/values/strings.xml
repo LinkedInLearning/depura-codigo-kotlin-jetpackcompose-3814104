@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CountryApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search">Search...</string>
+    <string name="search_icon_content_description">Search icon</string>
+    <string name="flag_description">flag</string>
+
+</resources>
