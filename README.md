@@ -31,7 +31,7 @@ La rama `main` tiene el estado final del código, mientras que en la rama `error
 Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.com/learning/instructors/radostina-tachova-chergarska).
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
-[lil-course-url]: https://www.linkedin.com
-[lil-thumbnail-url]: https:
+[lil-course-url]: https://www.linkedin.com/learning/depura-el-codigo-kotlin-y-jetpack-compose
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/D560DAQHmNpJ_Ys_MdA/learning-public-crop_675_1200/0/1707997370861?e=2147483647&v=beta&t=_dTKVPC2rrmGrVjjRbzXbXCrfHLKLtUfhZ6ygiIkdds
 
 [1]: # (End of ES-Instruction ###############################################################################################)
